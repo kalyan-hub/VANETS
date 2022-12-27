@@ -1,2 +1,2 @@
-# VANETS
-B.Tech Final Year Project
+# CSD
+Implementation of basic VANET protocols using NS2
